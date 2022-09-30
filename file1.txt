@@ -1,1 +1,2 @@
 Hello this is my first file with visual Studio code! I am making changes to mofigy my txt file.
+Hi Goma Added second line
